@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**pablosdlima/pablosdlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Aqui vai algumas informações que acredito que vocês precisam saber, então lá vai :smile:
+<br>
+    <h3 align="center">Formação</h3>
+<hr>
+    <i align="center"><i>:mortar_board:</i>  Graduação em Analíse e Desenvolvimento de Sistemas - UNIP</i>
+    <br>
+    <i align="center"><i>:mortar_board:</i>  Ensino Tecnico em Informática para Internet - ETEC</i>
+<hr>
+<h3 align="center">Principais Competencias</h3>
+<hr>
+    <i align="center"><i>::computer:</i>  Desenvolvimento Front-end { Html | Css | Bootstrap }</i>
+    <br>
+    <i align="center"><i>:computer:</i>   Regras de Negócio { Diagramas Uml }</i>
+    <br>
+    <i align="center"><i>:computer:</i>   Banco de Dados { MySql | Sql Server }</i>
+<hr>
+<h3 align="center">Outras Informações</h3>
+<hr>
+    <i align="center"><i>:video_game:</i>  Bom Gosto para Jogos</i>
+    <br>
+    <i align="center"><i>:tv:</i>   Curto Filmes, Series e Animes</i>
+    <br>
+    <i align="center"><i>:book:</i>   Leitura é Essencial</i>
+    <br>
+    <i align="center"><i>:book:</i>   Conhecimento Nunca é Demais</i>
+<hr>
