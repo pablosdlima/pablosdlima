@@ -11,6 +11,8 @@
 <hr>
     <i align="center"><i>::computer:</i>  Desenvolvimento Front-end { Html | Css | Bootstrap }</i>
     <br>
+    <i align="center"><i>:computer:</i>   Desenvolvimento Back-end { C# | .Net | .Core }</i>
+    <br>
     <i align="center"><i>:computer:</i>   Regras de Negócio { Diagramas Uml }</i>
     <br>
     <i align="center"><i>:computer:</i>   Banco de Dados { MySql | Sql Server }</i>
