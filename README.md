@@ -9,7 +9,7 @@
 <hr>
 <h3 align="center">Principais Competencias</h3>
 <hr>
-    <i align="center"><i>::computer:</i>  Desenvolvimento Front-end { Html | Css | Bootstrap }</i>
+    <i align="center"><i>::computer:</i>  Desenvolvimento Front-end { Html | Css | Javascript |Bootstrap }</i>
     <br>
     <i align="center"><i>:computer:</i>   Desenvolvimento Back-end { C# | .Net | .Core }</i>
     <br>
