@@ -1,29 +1,16 @@
-
-#### Aqui vai algumas informações que acredito que vocês precisam saber, então lá vai :smile:
-<br>
-    <h3 align="center">Formação</h3>
+<h2 align="center" color="red"><strong>Olá Mundo!</strong></h3>
 <hr>
-    <i align="center"><i>:mortar_board:</i>  Graduação em Analíse e Desenvolvimento de Sistemas - UNIP</i>
-    <br>
-    <i align="center"><i>:mortar_board:</i>  Ensino Tecnico em Informática para Internet - ETEC</i>
-<hr>
-<h3 align="center">Principais Competencias</h3>
-<hr>
-    <i align="center"><i>::computer:</i>  Desenvolvimento Front-end { Html | Css | Javascript |Bootstrap }</i>
-    <br>
-    <i align="center"><i>:computer:</i>   Desenvolvimento Back-end { C# | .Net | .Core }</i>
-    <br>
-    <i align="center"><i>:computer:</i>   Regras de Negócio { Diagramas Uml }</i>
-    <br>
-    <i align="center"><i>:computer:</i>   Banco de Dados { MySql | Sql Server }</i>
-<hr>
-<h3 align="center">Outras Informações</h3>
-<hr>
-    <i align="center"><i>:video_game:</i>  Bom Gosto para Jogos</i>
-    <br>
-    <i align="center"><i>:tv:</i>   Curto Filmes, Series e Animes</i>
-    <br>
-    <i align="center"><i>:book:</i>   Leitura é Essencial</i>
-    <br>
-    <i align="center"><i>:book:</i>   Conhecimento Nunca é Demais</i>
-<hr>
+<div>
+    <h4 align="center" color="red"><strong>Formação</strong></h3>
+    <hr>
+   
+</div>
+<div>
+    <h3 align="center" color="red"><strong>Competencias</strong></h3>
+    </br>
+    <p align="left" color="red"><strong>Front-end</strong></p>
+    <p><img align="left" alt="Devto" width="90px" height="35px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></p>
+    <p><img align="left" alt="Devto" width="90px" height="35px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></p>
+    <p><img align="left" alt="Devto" width="90px" height="35px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></p>  
+    </br>
+</div>
