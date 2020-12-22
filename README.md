@@ -18,6 +18,8 @@
  <img align="left" alt="Devto" width="90px" height="35px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  <img align="left" alt="Devto" width="90px" height="35px" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
  </br></br>
+ <h5 align="left">Detalhes</h5>
+
 <h3 align="center">Outras Informações</h3>
 <hr>
     <i align="center"><i>:video_game:</i>  Bom Gosto para Jogos</i>
