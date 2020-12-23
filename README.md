@@ -9,6 +9,7 @@
 <hr>
 <h3 align="center">Principais Competencias</h3>
 <hr>
+<center>
  <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
  <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
  <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -16,8 +17,8 @@
  <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
  <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
  <img align="left" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
- </br>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+ </center>
  <h5 align="left">Detalhes</h5>
   <p> <img align =" center "src = "https://github-readme-stats.vercel.app/api/top-langs?username=pablosdlima&show_icons=true&locale=en&layout=compact" alt = "pablosdlima" /> </p>
 <h3 align="center">Outras Informações</h3>
