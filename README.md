@@ -19,7 +19,8 @@
  <img align="left" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
  </center>
- <h5 align="left">Detalhes</h5>
+ <h3 align="center">Detalhes</h3>
+ <hr>
  <table>
  <tr>
   <td><img src = "https://github-readme-stats.vercel.app/api/top-langs?username=pablosdlima&show_icons=true&locale=en&layout=compact" alt = "pablosdlima"/></td>
