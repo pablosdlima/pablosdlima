@@ -1,5 +1,5 @@
 
-#### Aqui vai algumas informações que acredito que vocês precisam saber, então lá vai :smile:
+![capa](https://github.com/pablosdlima/pablosdlima/blob/master/CapaGit.png)
 <br>
     <h3 align="center">Formação</h3>
 <hr>
@@ -20,7 +20,12 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
  </center>
  <h5 align="left">Detalhes</h5>
-  <p> <img align =" center "src = "https://github-readme-stats.vercel.app/api/top-langs?username=pablosdlima&show_icons=true&locale=en&layout=compact" alt = "pablosdlima" /> </p>
+ <table>
+ <tr>
+  <td><img src = "https://github-readme-stats.vercel.app/api/top-langs?username=pablosdlima&show_icons=true&locale=en&layout=compact" alt = "pablosdlima"/></td>
+  <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=pablosdlima&theme=compact"/></td>
+ </tr>
+</table>
 <h3 align="center">Outras Informações</h3>
 <hr>
     <i align="center"><i>:video_game:</i>  Bom Gosto para Jogos</i>
